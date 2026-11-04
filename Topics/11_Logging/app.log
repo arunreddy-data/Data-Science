@@ -1,0 +1,9 @@
+2026-09-19 05:37:13-module1-DEBUG-This is debug message for module1
+2026-09-19 05:37:13-module2-WARNING-This is warning message for module2
+2026-09-19 05:37:13-module2-ERROR-This Is error message for module2
+2026-09-19 05:37:25-module1-DEBUG-This is debug message for module1
+2026-09-19 05:37:25-module2-WARNING-This is warning message for module2
+2026-09-19 05:37:25-module2-ERROR-This Is error message for module2
+2026-09-19 05:38:04-module1-DEBUG-This is debug message for module1
+2026-09-19 05:38:04-module2-WARNING-This is warning message for module2
+2026-09-19 05:38:04-module2-ERROR-This Is error message for module2
